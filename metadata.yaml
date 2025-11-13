@@ -1,0 +1,13 @@
+GroupCourse:
+  Link: ""
+  Desc: "21级以前：电气专业课程设计包括大三上EE3006技术基础课程设计，大三下EE3009专业课程设计，大四上EE3008专业创新设计。22级起：电气专业课程设计改为大三上EE3041专业综合实践I，大三下EE3042专业综合实践II。"
+  Name: "专业综合实践系列课程"
+  Ids: ["EE3006", "EE3009", "EE3008", "EE3041", "EE3042"]
+
+GradeComposition:
+  - Name: 实物验收
+    Percentage: 30
+  - Name: 设计报告
+    Percentage: 70
+
+CourseHourComposition: []
