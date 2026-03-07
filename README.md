@@ -1,4 +1,6 @@
 # EE304X - 专业综合实践
+<!-- TOML-META: repo_type="normal" -->
+<!-- TOML-BADGES: source="grades_summary" -->
 
 ![成绩构成](https://img.shields.io/badge/成绩构成-gold)
 ![实物验收30%](https://img.shields.io/badge/实物验收-30%25-wheat)
@@ -13,5 +15,6 @@
 ## 授课教师
 
 - 王宏
+  <!-- TOML-ITEM: id="review-王宏-1" -->
   - 电气自己的整蛊大师（
   - 套件记得提醒他购买，报告给分较为随机。
