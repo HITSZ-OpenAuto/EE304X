@@ -14,6 +14,7 @@
 
 ## 授课教师
 
+<!-- TOML-LECTURERS: part="items" -->
 - 王宏
   <!-- TOML-ITEM: id="review-王宏-1" -->
   - 电气自己的整蛊大师（
