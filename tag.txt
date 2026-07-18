@@ -1,3 +1,0 @@
-category: 必修
-semester: 第三学年秋季 / 第三学年春季
-name: 专业综合实践
