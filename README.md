@@ -1,10 +1,5 @@
 # EE304X - 专业综合实践
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![实物验收30%](https://img.shields.io/badge/实物验收-30%25-wheat)
-![设计报告70%](https://img.shields.io/badge/设计报告-70%25-wheat)
 
 21 级以前，电气专业课程设计包括大三上开设技术基础课程设计，大三下开设专业课程设计，大四上开设专业创新设计。
 
